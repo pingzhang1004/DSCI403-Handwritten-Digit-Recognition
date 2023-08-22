@@ -1,4 +1,6 @@
 # DSCI403-Handwritten-Digit-Recognition
+###### * Using Python programming language 
+###### * The course project code is not allowed to be published online，but I am happy to share the ideas and results of my algorithm!
 
 ### This project works on the Python deep learning algorithm Convolutional Neural Networks (CNN) to build a handwritten digit recognition model using the MNIST dataset.
 
